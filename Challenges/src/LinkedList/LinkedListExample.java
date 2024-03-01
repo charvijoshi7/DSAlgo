@@ -186,6 +186,11 @@ public class LinkedListExample {
 	 * [1,2,6,3,4,5,6], val = 6 Output: [1,2,3,4,5] Exampple 2 Input: head = [], val
 	 * = 1 Output: [] Exampple 3 Input: head = [7,7,7,7], val = 7 Output: []
 	 */
+	
+	public Node removeElements() {
+		
+		return head;
+	}
 
 	/**
 	 * Leetcode : 876 (Easy) Middle of the Linked List Given the head of a singly
@@ -195,6 +200,11 @@ public class LinkedListExample {
 	 * 3. Example 2 Input: head = [1,2,3,4,5,6] Output: [4,5,6] Explanation: Since
 	 * the list has two middle nodes with values 3 and 4, we return the second one.
 	 */
+	
+	public Node returnMiddleLinkedList() {
+		
+		return head;
+	}
 
 	/**
 	 * Leetcode : 206 (Easy) Reverse Linked List Given the head of a singly linked
@@ -202,6 +212,10 @@ public class LinkedListExample {
 	 * [1,2,3,4,5] Output: [5,4,3,2,1] Example 2 Input: head = [1,2] Output: [2,1]
 	 * Example 3 Input: head = [] Output: []
 	 */
+	
+	public Node reversedLinkedList() {
+		return head;
+	}
 
 	/**
 	 * Leetcode : 2816 (Medium) Double a Number Represented as a Linked List You are
@@ -214,6 +228,10 @@ public class LinkedListExample {
 	 * corresponds to the given linked list which represents the number 999. Hence,
 	 * the returned linked list reprersents the number 999 * 2 = 1998.
 	 */
+	
+	public Node doubleLL() {
+		return head;
+	}
 
 	/**
 	 * Print LL with given head of LL.
